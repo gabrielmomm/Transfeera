@@ -1,10 +1,10 @@
 # DESAFIO TRANSFEERA
 
 ## Linguagem
-- [NodeJS](https://nodejs.org/en/)
+- [NodeJS]
 
 ## Banco de dados
-- [Postgres](https://www.postgresql.org/download/)
+- [Postgres]
 
 ## Instalação do projeto
 Baixar e configurar na máquina o NodeJS assim como o banco de dados POSTGRES, a cópia do projeto pode ser feita via clone ou manualmente através GitHub Web.
@@ -15,7 +15,7 @@ cd DesafioTransfeera
 npm install
 ```
 
-## Confuguração do Banco de dados
+## Configuração do Banco de dados
 Para criar o banco de dados deve rodar os scripto a baixo, junto da criação da estrurura é possível criar um pré cadastro nas tabelas.
 
 ```sql

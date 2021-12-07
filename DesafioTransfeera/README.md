@@ -73,6 +73,7 @@ NODE_PORT
 
 ## Execução
 Para a execução do projeto deve-se utilizar o código abaixo no terminal:
+
 `npm start`
 
 ## Teste Unitário e Ingração

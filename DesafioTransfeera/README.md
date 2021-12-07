@@ -62,12 +62,14 @@ values
 
 ## Preenchimento das Variáveis de ambiente
 Criar um arquivo ".env" na raiz do projeto com e preencher os parâmetros abaixo: 
+```
 DB_HOST
 DB_USER
 DB_PORT
 DB_NAME
 DB_SCHEMA
 NODE_PORT
+```
 
 ## Execução
 Para a execução do projeto deve-se utilizar o código abaixo no terminal:

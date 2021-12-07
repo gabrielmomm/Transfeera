@@ -10,7 +10,7 @@
 Baixar e configurar na máquina o NodeJS assim como o banco de dados POSTGRES, a cópia do projeto pode ser feita via clone ou manualmente através GitHub Web.
 
 ```console
-git clone 
+git clone https://github.com/gabrielmomm/Transfeera.git
 cd DesafioTransfeera
 npm install
 ```

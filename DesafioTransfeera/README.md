@@ -76,7 +76,7 @@ Para a execução do projeto deve-se utilizar o código abaixo no terminal:
 
 `npm start`
 
-## Teste Unitário e Ingração
+## Teste Unitário e Integração
 A execução dos testes unitários e de integração podem ser executadas diretamente no terminal através do comando abaixo. É pré-requisito deixar rodando a execução padrão "npm start"
 
 `npm test`

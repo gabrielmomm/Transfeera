@@ -65,6 +65,7 @@ Criar um arquivo ".env" na raiz do projeto com e preencher os parâmetros abaixo
 ```
 DB_HOST
 DB_USER
+DB_PASSWORD
 DB_PORT
 DB_NAME
 DB_SCHEMA
